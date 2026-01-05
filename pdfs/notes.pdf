@@ -1,0 +1,246 @@
+#+TITLE: Accenture Syllabus & Progress Tracker
+#+AUTHOR: Arpit Singh
+#+STARTUP: overview
+#+OPTIONS: toc:2
+
+* ACCENTURE PREPARATION – MASTER SYLLABUS
+** Objective
+- Clear Accenture Technical + Cognitive + Coding rounds
+- Cover only relevant depth (no overkill)
+- Track readiness clearly before test day
+
+* PREPARATION STATUS DASHBOARD
+** Overall Readiness
+- Technical: [ ]%
+- Coding: [ ]%
+- Cognitive: [ ]%
+- Communication: [ ]%
+
+** Completion Legend
+- [ ] Not Started
+- [-] In Progress
+- [X] Completed
+
+* COMPUTER NETWORKS (CN)
+** Basics
+- [X] Definition of Network
+- [X] Types: LAN, MAN, WAN, PAN
+- [X] Topologies
+- [X] Network Devices
+- [X] Transmission Modes
+
+** OSI Model
+- [X] Layer-wise functions
+- [X] Protocols per layer
+- [X] Real-world mapping
+
+** TCP/IP Model
+- [X] 4-layer architecture
+- [X] TCP vs UDP
+- [X] Core protocols (HTTP, FTP, DNS, DHCP)
+
+** IP Addressing
+- [X] IPv4 vs IPv6
+- [X] Classful addressing
+- [X] Private vs Public IP
+- [-] Subnetting practice
+
+** Network Security
+- [X] Firewalls
+- [X] VPN
+- [X] IDS / IPS
+- [X] Common attacks (DoS, DDoS, Phishing)
+
+* OPERATING SYSTEMS (OS)
+** Fundamentals
+- [ ] What is OS
+- [ ] Types of OS
+- [ ] Kernel vs User Mode
+- [ ] System Calls
+
+** Process Management
+- [ ] Process vs Program
+- [ ] Process States
+- [ ] PCB
+- [ ] Context Switching
+- [ ] Threads vs Processes
+
+** CPU Scheduling
+- [ ] FCFS
+- [ ] SJF (Preemptive)
+- [ ] SJF (Non-Preemptive)
+- [ ] Priority Scheduling
+- [ ] Round Robin
+- [ ] Numerical problems
+
+** Memory Management
+- [ ] Contiguous Allocation
+- [ ] Paging
+- [ ] Segmentation
+- [ ] Virtual Memory
+
+** Page Replacement
+- [ ] FIFO
+- [ ] LRU
+- [ ] Optimal
+
+** Deadlocks
+- [ ] Deadlock conditions
+- [ ] Prevention
+- [ ] Avoidance
+- [ ] Banker’s Algorithm
+
+** File System & I/O
+- [ ] File allocation methods
+- [ ] Directory structures
+- [ ] Disk scheduling
+
+* DBMS
+** DBMS Concepts
+- [-] Keys
+- [-] ER Diagrams
+- [ ] Normalization (1NF)
+- [ ] Normalization (2NF)
+- [ ] Normalization (3NF)
+- [ ] ACID Properties
+- [ ] Transactions
+- [ ] Indexing
+
+** SQL
+- [ ] SELECT, WHERE
+- [ ] GROUP BY, HAVING
+- [ ] JOINS
+  - [ ] INNER
+  - [ ] LEFT
+  - [ ] RIGHT
+- [ ] Subqueries
+- [ ] Constraints
+- [ ] Views
+
+* SECURITY (CYBER BASICS)
+** Core Concepts
+- [X] CIA Triad
+- [X] Authentication vs Authorization
+- [X] Symmetric vs Asymmetric Encryption
+- [X] Hashing (MD5, SHA)
+
+** Attacks
+- [X] SQL Injection
+- [X] XSS
+- [X] MITM
+- [X] Social Engineering
+
+* CLOUD COMPUTING
+** Basics
+- [X] Cloud definition
+- [X] Characteristics
+- [X] Benefits
+
+** Service Models
+- [X] IaaS
+- [X] PaaS
+- [X] SaaS
+
+** Deployment Models
+- [X] Public
+- [X] Private
+- [X] Hybrid
+- [X] Multi-Cloud
+
+** Providers
+- [X] AWS
+- [X] Azure
+- [X] GCP
+
+* PYTHON PROGRAMMING
+** Basics
+- [X] Variables & Data Types
+- [X] Operators
+- [X] Conditions
+- [X] Loops
+- [X] Functions
+- [X] Strings
+- [X] File Handling
+- [X] Exception Handling
+
+** Data Structures (Python)
+- [ ] Lists
+- [ ] Tuples
+- [ ] Sets
+- [ ] Dictionaries
+
+** OOP in Python
+- [ ] Classes & Objects
+- [ ] Constructors
+- [ ] Inheritance
+- [ ] Polymorphism
+- [ ] Encapsulation
+
+* DATA STRUCTURES & ALGORITHMS
+** Searching
+- [ ] Linear Search
+- [ ] Binary Search
+
+** Sorting
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+
+** Core Structures
+- [ ] Stack
+- [ ] Queue
+- [ ] Linked List
+- [ ] Hash Map
+
+** Algorithms Practice
+- [ ] Reverse string
+- [ ] 2nd largest number
+- [ ] Palindrome
+- [ ] Prime number
+- [ ] Fibonacci
+- [ ] Frequency count
+- [ ] Remove duplicates
+
+* COMMON APPLICATIONS
+** MS Word
+- [ ] Formatting
+- [ ] Tables
+- [ ] Templates
+
+** MS Excel
+- [ ] Basic formulas
+- [ ] IF, COUNTIF
+- [ ] VLOOKUP
+- [ ] Pivot tables
+
+** PowerPoint
+- [ ] Slide design
+- [ ] Charts
+- [ ] Animations
+
+* FRONTEND (BASICS)
+** JavaScript
+- [ ] Variables
+- [ ] Data Types
+- [ ] Functions
+- [ ] Arrays & Objects
+- [ ] DOM Basics
+
+* HR & COMMUNICATION
+** HR Questions
+- [ ] Self Introduction
+- [ ] Why Accenture?
+- [ ] Strengths & Weaknesses
+- [ ] Project Explanation
+
+** Communication
+- [ ] Formal email writing
+- [ ] Client communication basics
+
+* FINAL READINESS CHECK
+** Before Exam Day
+- [ ] All OS topics revised
+- [ ] CN core concepts revised
+- [ ] DBMS + SQL confidence
+- [ ] Python logic confidence
+- [ ] Mock tests attempted
